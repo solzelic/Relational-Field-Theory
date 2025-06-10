@@ -1,0 +1,12 @@
+---
+
+requirements.txt
+
+numpy
+matplotlib
+scipy
+qutip
+
+📌 Optional but useful:
+seaborn
+jupyterlab
