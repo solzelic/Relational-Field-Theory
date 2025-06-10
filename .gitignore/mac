@@ -1,0 +1,49 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdfsync
+
+# OS-generated trash
+*.swp
+*.tmp
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Compiled binaries or local builds
+*.exe
+*.dll
+*.class
+*.o
+*.out
+*.a
+*.dylib
+
+# Git backup/merge conflicts
+*.orig
+*.rej
+
+# Environment files
+.env
+.env.*
